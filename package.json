@@ -1,0 +1,23 @@
+{
+  "name": "projeto-node",
+  "version": "1.0.0",
+  "description": "Projeto Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagohlazarini/projeto-node.git"
+  },
+  "keywords": [
+    "node",
+    "git"
+  ],
+  "author": "Tiago Henrique",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tiagohlazarini/projeto-node/issues"
+  },
+  "homepage": "https://github.com/tiagohlazarini/projeto-node#readme"
+}
